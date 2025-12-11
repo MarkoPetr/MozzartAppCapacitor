@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MozzartApp</string>
+    <string name="title_activity_main">MozzartApp</string>
+    <string name="package_name">com.markopetr.mozzartapp</string>
+    <string name="custom_url_scheme">com.markopetr.mozzartapp</string>
+</resources>
